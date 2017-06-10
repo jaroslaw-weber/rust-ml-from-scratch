@@ -1,0 +1,8 @@
+[package]
+name = "rust_machine_learning"
+version = "0.1.0"
+authors = ["Jaroslaw Weber <jaroslaw.weber@gmail.com>"]
+
+[dependencies]
+rand = "*" # Or a specific version
+image = "*"
